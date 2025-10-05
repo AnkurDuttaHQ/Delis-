@@ -1,2 +1,1 @@
-# Delis-
-Delis is our personal restaurant
+Hakathon Project
